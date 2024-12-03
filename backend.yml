@@ -142,3 +142,6 @@ Outputs:
   AppRunnerServiceUrl:
     Description: "URL of the App Runner Service"
     Value: !GetAtt AppRunnerService.ServiceUrl
+cd /Workshop/modern-cicd-with-github-and-aws-codepipeline/
+git add .
+git commit -
